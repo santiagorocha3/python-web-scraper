@@ -1,5 +1,32 @@
 # Python Web Scraper
 
-A Python web scraping tool that collects and structures data from websites using HTTP requests and HTML parsing, then exports the results into CSV format for analysis and automation.
+A Python-based web scraper that extracts article titles and links from websites and exports the data into a clean CSV file for analysis and automation.
 
-Demonstrates practical use of data extraction, parsing logic, and file handling.
+---
+
+## 🚀 Features
+
+- Accepts a user-provided website URL  
+- Scrapes structured data (titles + links)  
+- Exports results into a CSV file (`output.csv`)  
+- Includes basic error handling for failed requests  
+- Designed for real-world scraping workflows  
+
+---
+
+## 🛠 Tech Stack
+
+- Python  
+- Requests  
+- BeautifulSoup  
+- Pandas  
+
+---
+
+## ▶️ How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/santiagorocha3/python-web-scraper.git
+cd python-web-scraper
