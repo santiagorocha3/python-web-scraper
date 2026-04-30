@@ -3,36 +3,43 @@ from bs4 import BeautifulSoup
 import pandas as pd
 
 
-def scrape(url):
+def scrape(url, pages=3):
     headers = {"User-Agent": "Mozilla/5.0"}
+    all_data = []
+    current_url = url
 
-    try:
-        response = requests.get(url, headers=headers)
-        response.raise_for_status()
-    except requests.exceptions.RequestException as e:
-        print("[ERROR] {}".format(e))
-        return []
+    for page in range(pages):
+        print("[INFO] Scraping {}".format(current_url))
 
-    soup = BeautifulSoup(response.text, "html.parser")
-    data = []
+        try:
+            response = requests.get(current_url, headers=headers)
+            response.raise_for_status()
+        except requests.exceptions.RequestException as e:
+            print("[ERROR] {}".format(e))
+            break
 
-    # Hacker News titles are stored inside: span class="titleline"
-    items = soup.find_all("span", class_="titleline")
+        soup = BeautifulSoup(response.text, "html.parser")
+        items = soup.find_all("span", class_="titleline")
 
-    for item in items:
-        link = item.find("a")
+        for item in items:
+            link = item.find("a")
 
-        if link:
-            title = link.get_text(strip=True)
-            article_url = link.get("href")
+            if link:
+                all_data.append({
+                    "title": link.get_text(strip=True),
+                    "article_url": link.get("href"),
+                    "source_url": current_url
+                })
 
-            data.append({
-                "title": title,
-                "article_url": article_url,
-                "source_url": url
-            })
+        more_link = soup.find("a", class_="morelink")
 
-    return data
+        if more_link:
+            next_href = more_link.get("href")
+            current_url = "https://news.ycombinator.com/" + next_href
+        else:
+            break
+
+    return all_data
 
 
 def save_to_csv(data, filename="output.csv"):
@@ -51,5 +58,5 @@ if __name__ == "__main__":
     if not url.startswith("http"):
         print("[ERROR] Enter a valid URL with http or https.")
     else:
-        results = scrape(url)
+        results = scrape(url, pages=3)
         save_to_csv(results)

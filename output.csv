@@ -1,31 +1,91 @@
 title,article_url,source_url
+Rivian allows you to disable all internet connectivity,https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle,https://news.ycombinator.com
 How Mark Klein told the EFF about Room 641A [book excerpt],https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/,https://news.ycombinator.com
 Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library,https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/,https://news.ycombinator.com
-CopyFail Was Not Disclosed to Distros,https://www.openwall.com/lists/oss-security/2026/04/30/10,https://news.ycombinator.com
+"LinkedIn scans for 6,278 extensions and encrypts the results into every request",https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/,https://news.ycombinator.com
 I built a Game Boy emulator in F#,https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/,https://news.ycombinator.com
+CopyFail was not disclosed to Gentoo developer,https://www.openwall.com/lists/oss-security/2026/04/30/10,https://news.ycombinator.com
+U.S. Senators Vote to Ban Themselves from Trading on Prediction Markets,https://www.wsj.com/politics/policy/senators-vote-to-ban-themselves-from-trading-on-prediction-markets-ae4535dd,https://news.ycombinator.com
 Belgium stops decommissioning nuclear power plants,https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/,https://news.ycombinator.com
 "Claude Code refuses requests or charges extra if your commits mention ""OpenClaw""",https://twitter.com/theo/status/2049645973350363168,https://news.ycombinator.com
-How an Oil Refinery Works,https://www.construction-physics.com/p/how-an-oil-refinery-works,https://news.ycombinator.com
+How an oil refinery works,https://www.construction-physics.com/p/how-an-oil-refinery-works,https://news.ycombinator.com
+Reverse Engineering SimTower,https://phulin.me/blog/simtower,https://news.ycombinator.com
+Full-Text Search with DuckDB,https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html,https://news.ycombinator.com
 "Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file",https://honker.dev/,https://news.ycombinator.com
 You can beat the binary search,https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/,https://news.ycombinator.com
+Does Postgres Scale?,https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres,https://news.ycombinator.com
+Follow-up to Carrot disclosure: Forgejo,https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html,https://news.ycombinator.com
 I aggregated 28 US Government auction sites into one search,https://bidprowl.com,https://news.ycombinator.com
-Spain's parliament will act against massive IP blockages by LaLiga,https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/,https://news.ycombinator.com
-"If Apple makes an iPad Neo, it's all over",https://www.techadvisor.com/article/3128472/if-apple-makes-an-ipad-neo-its-all-over.html,https://news.ycombinator.com
 10Gb/s Ethernet: what I did to get it working in my home,https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did,https://news.ycombinator.com
-Mozilla's opposition to Chrome's Prompt API,https://github.com/mozilla/standards-positions/issues/1213,https://news.ycombinator.com
-A 1960s art school experiment that redefined creativity,https://thereader.mitpress.mit.edu/the-1960s-art-school-experiment-that-redefined-creativity/,https://news.ycombinator.com
+Mozilla's opposition to Chrome's Prompt API,https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313,https://news.ycombinator.com
+Spain's parliament will act against massive IP blockages by LaLiga,https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/,https://news.ycombinator.com
+The Church Rock Uranium Mill Spill,https://en.wikipedia.org/wiki/Church_Rock_uranium_mill_spill,https://news.ycombinator.com
 Recovering files from beyond the grave using PhotoRec,https://lost-number.bearblog.dev/recovering-files-from-beyond-the-grave-using-photorec/,https://news.ycombinator.com
-Granite 4.1: IBM's 8B Model Matching 32B MoE,https://firethering.com/granite-4-1-ibm-open-source-model-family/,https://news.ycombinator.com
-The Zig project's rationale for their anti-AI contribution policy,https://simonwillison.net/2026/Apr/30/zig-anti-ai/,https://news.ycombinator.com
-Noctua releases official 3D CAD models for its cooling fans,https://www.noctua.at/en/3d-cad-models,https://news.ycombinator.com
-Where the goblins came from,https://openai.com/index/where-the-goblins-came-from/,https://news.ycombinator.com
 How Semiconductors Were Made in America,https://www.siliconimist.com/p/semiconductors-made-in-america,https://news.ycombinator.com
-The Science Behind Honey's Eternal Shelf Life (2013),https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/,https://news.ycombinator.com
+A 1960s art school experiment that redefined creativity,https://thereader.mitpress.mit.edu/the-1960s-art-school-experiment-that-redefined-creativity/,https://news.ycombinator.com
+The upsell game – Vercel upselling tactics revealed,https://theupsellgame.com/,https://news.ycombinator.com
+Granite 4.1: IBM's 8B Model Matching 32B MoE,https://firethering.com/granite-4-1-ibm-open-source-model-family/,https://news.ycombinator.com
+The Human Creativity Benchmark – Evaluating Generative AI in Creative Work,https://contralabs.com/research/human-creativity-benchmark,https://news.ycombinator.com
+American Dads Became the Parents Their Fathers Never Were,https://www.derekthompson.org/p/why-do-richer-dads-spend-more-time,https://news.ycombinator.com
+1.4 GW: battery storage at former Grohnde nuclear power plant,https://www.heise.de/en/news/1-4-GW-Huge-battery-storage-at-former-Grohnde-nuclear-power-plant-11277367.html,https://news.ycombinator.com
 A Primer on Bézier Curves – So What Makes a Bézier Curve?,https://pomax.github.io/bezierinfo/,https://news.ycombinator.com
-Kubereboot/Kured: Kubernetes Reboot Daemon,https://github.com/kubereboot/kured,https://news.ycombinator.com
-Show HN: TRiP – a complete transformer engine in C built from scratch just by me,https://github.com/carlovalenti/TRiP,https://news.ycombinator.com
-Full-Text Search with DuckDB,https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html,https://news.ycombinator.com
-My Stratum-0 Atomic Clock,https://coverclock.blogspot.com/2017/05/my-stratum-0-atomic-clock_9.html,https://news.ycombinator.com
-What can we gain by losing infinity?,https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/,https://news.ycombinator.com
-Craig Venter has died,https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79,https://news.ycombinator.com
-Largest Digital Human Rights Conference Suddenly Canceled,https://www.404media.co/rightscon-human-rights-conference-suddenly-postponed/,https://news.ycombinator.com
+The Science Behind Honey's Eternal Shelf Life (2013),https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/,https://news.ycombinator.com/?p=2
+Kubereboot/Kured: Kubernetes Reboot Daemon,https://github.com/kubereboot/kured,https://news.ycombinator.com/?p=2
+What can we gain by losing infinity?,https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/,https://news.ycombinator.com/?p=2
+My Stratum-0 Atomic Clock,https://coverclock.blogspot.com/2017/05/my-stratum-0-atomic-clock_9.html,https://news.ycombinator.com/?p=2
+Greptile's New Pricing Is Predatory,https://greptile-fail.vercel.app/,https://news.ycombinator.com/?p=2
+Show HN: TRiP – a complete transformer engine in C built from scratch just by me,https://github.com/carlovalenti/TRiP,https://news.ycombinator.com/?p=2
+DataCenter.FM – background noise app featuring the sound of the AI bubble,https://datacenter.fm/,https://news.ycombinator.com/?p=2
+GCC 16 has been released,https://gcc.gnu.org/gcc-16/changes.html,https://news.ycombinator.com/?p=2
+Zed 1.0,https://zed.dev/blog/zed-1-0,https://news.ycombinator.com/?p=2
+Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs,https://github.com/cauchy221/Alignment-Whack-a-Mole-Code,https://news.ycombinator.com/?p=2
+Largest Digital Human Rights Conference Suddenly Canceled,https://www.404media.co/rightscon-human-rights-conference-suddenly-postponed/,https://news.ycombinator.com/?p=2
+Because It Doesn't Have To,https://blog.computationalcomplexity.org/2026/04/because-it-doesnt-have-to.html,https://news.ycombinator.com/?p=2
+Gooseworks (YC W23) Is Hiring a Founding Growth Engineer,https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer,https://news.ycombinator.com/?p=2
+"""Parse, don't validate"" through the years with C++",https://derekrodriguez.dev/parse-dont-validate-through-the-years-with-c-/,https://news.ycombinator.com/?p=2
+Noctua releases official 3D CAD models for its cooling fans,https://www.noctua.at/en/3d-cad-models,https://news.ycombinator.com/?p=2
+The Zig project's rationale for their anti-AI contribution policy,https://simonwillison.net/2026/Apr/30/zig-anti-ai/,https://news.ycombinator.com/?p=2
+Biology is a Burrito: A text- and visual-based journey through a living cell,https://burrito.bio/essays/biology-is-a-burrito,https://news.ycombinator.com/?p=2
+Copy Fail,https://copy.fail/,https://news.ycombinator.com/?p=2
+London to Calcutta by Bus (2022),https://www.amusingplanet.com/2022/08/london-to-calcutta-by-bus.html,https://news.ycombinator.com/?p=2
+Mike: open-source legal AI,https://mikeoss.com/,https://news.ycombinator.com/?p=2
+Monad Tutorials Timeline,https://wiki.haskell.org/Monad_tutorials_timeline,https://news.ycombinator.com/?p=2
+Where the goblins came from,https://openai.com/index/where-the-goblins-came-from/,https://news.ycombinator.com/?p=2
+Meta in row after workers who saw smart glasses users having sex lose jobs,https://www.bbc.com/news/articles/c5y7yvgy0w6o,https://news.ycombinator.com/?p=2
+The Alice and Bob After Dinner Speech,https://hex.ooo/library/alicebob.html,https://news.ycombinator.com/?p=2
+The Iran internet blackout has entered its second month,https://mastodon.social/@netblocks/116481109110598719,https://news.ycombinator.com/?p=2
+Ghostty is leaving GitHub,https://mitchellh.com/writing/ghostty-leaving-github,https://news.ycombinator.com/?p=2
+Craig Venter has died,https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79,https://news.ycombinator.com/?p=2
+Joby kicks off NYC electric air taxi demos with historic JFK flight,https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/,https://news.ycombinator.com/?p=2
+"Show HN: Coding-Flashcards – Learn Rust, SQLite, or Godot from First Principles",https://github.com/ad-si/Coding-Flashcards,https://news.ycombinator.com/?p=2
+Cursor Camp,https://neal.fun/cursor-camp/,https://news.ycombinator.com/?p=2
+Scaling Pain of Coding Agent Serving: Lessons from Debugging GLM-5 at Scale,https://z.ai/blog/scaling-pain,https://news.ycombinator.com/?p=3
+Show HN: FusionCore: ROS 2 sensor fusion that outperforms robot_localization,https://github.com/manankharwar/fusioncore,https://news.ycombinator.com/?p=3
+Consequences of passing too few register parameters to a C function,https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271,https://news.ycombinator.com/?p=3
+How to Build the Future: Demis Hassabis [video],https://www.youtube.com/watch?v=JNyuX1zoOgU,https://news.ycombinator.com/?p=3
+Claude Code dies with ANTHROPIC_API_KEY in cloud environment,item?id=47966935,https://news.ycombinator.com/?p=3
+Fast GPU Linear Algebra via Compile Time Expression Fusion,https://arxiv.org/abs/2604.22242,https://news.ycombinator.com/?p=3
+NASA's X-59 Shows Off Early Flight Test Maneuvers,https://www.nasa.gov/blogs/quesst/2026/04/30/x-59-update-043026/,https://news.ycombinator.com/?p=3
+Creating a Color Palette from an Image,https://amandahinton.com/blog/creating-a-color-palette-from-an-image,https://news.ycombinator.com/?p=3
+Functional programmers need to take a look at Zig,https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html,https://news.ycombinator.com/?p=3
+Ramp's Sheets AI Exfiltrates Financials,https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials,https://news.ycombinator.com/?p=3
+A grounded conceptual model for ownership types in Rust,https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/,https://news.ycombinator.com/?p=3
+I accidentally made law enforcement shut down their fake honeypot,https://lina.sh/blog/ddos-honeypot,https://news.ycombinator.com/?p=3
+DeepSeek: Thinking with Visual Primitives [pdf],https://huggingface.co/datasets/NodeLinker/deepseek-ai-Thinking-with-Visual-Primitives-deleted-repo/blob/main/Thinking_with_Visual_Primitives.pdf,https://news.ycombinator.com/?p=3
+FastCGI: 30 years old and still the better protocol for reverse proxies,https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies,https://news.ycombinator.com/?p=3
+Talkie: a 13B vintage language model from 1930,https://talkie-lm.com/introducing-talkie,https://news.ycombinator.com/?p=3
+OpenTrafficMap,https://opentrafficmap.org/,https://news.ycombinator.com/?p=3
+"House GOP concedes in DHS funding fight, reopening TSA but blocking ICE funds",https://www.cnn.com/2026/04/30/politics/dhs-shutdown-funding-bill-house-vote,https://news.ycombinator.com/?p=3
+PostgreSQL 19 features I'm excited about,https://www.bytebase.com/blog/postgres-19-features-im-excited-about/,https://news.ycombinator.com/?p=3
+"I scraped 1.94M Airbnb photos for opium dens, pet cameos, and messy kitchens",https://burla-cloud.github.io/examples/airbnb-burla-demo/,https://news.ycombinator.com/?p=3
+Official SAP NPM packages compromised to steal credentials,https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/,https://news.ycombinator.com/?p=3
+DRAM Crunch: Lessons for System Design,https://www.eetimes.com/what-the-dram-crunch-teaches-us-about-system-design/,https://news.ycombinator.com/?p=3
+"Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years",https://jivx.com/kyoto-bloom,https://news.ycombinator.com/?p=3
+Vera: a programming language designed for machines to write,https://github.com/aallan/vera,https://news.ycombinator.com/?p=3
+GitHub – DOS 1.0: Transcription of Tim Paterson's DOS Printouts,https://github.com/DOS-History/Paterson-Listings,https://news.ycombinator.com/?p=3
+Radio Lockdown Averted,https://fsfe.org/activities/radiodirective/radiodirective.html,https://news.ycombinator.com/?p=3
+Virtualisation on Apple Silicon Macs is different,https://eclecticlight.co/2026/04/29/virtualisation-on-apple-silicon-macs-is-different/,https://news.ycombinator.com/?p=3
+"Iran war disrupts the circuit board supply chain, raises costs for tech firms",https://www.reuters.com/world/middle-east/iran-war-disrupts-the-circuit-board-supply-chain-raises-costs-tech-firms-2026-04-27/,https://news.ycombinator.com/?p=3
+"Most Swiss back initiative to cap population at 10M, poll shows",https://www.reuters.com/world/europe/most-swiss-back-initiative-cap-population-10-million-poll-shows-2026-04-29/,https://news.ycombinator.com/?p=3
+Warm Burnout: editor and terminal color scheme,https://warmburnout.com/,https://news.ycombinator.com/?p=3
+EU Radio Lockdown Directive,https://fsfe.org/activities/radiodirective/radiodirective.en.html,https://news.ycombinator.com/?p=3
